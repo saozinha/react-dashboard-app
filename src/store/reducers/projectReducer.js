@@ -1,9 +1,9 @@
 const initState = {
 
     projects: [
-        {id: '1', title : 'Maratona code in house', content:'blah blah  blah  blah blah blah blah blah blah '},
-        {id: '2', title : 'Coding your app lous', content:'blah blah  blah  blah blah blah blah blah blah '},
-        {id: '3', title : 'Create your newpapers in app lous', content:'blah blah  blah  blah blah blah blah blah blah '},
+        {id: '1', title : 'Maratona code in house', content:' This is my routinne , i am great progress in react '},
+        {id: '2', title : 'Coding your app lous', content:'Today i am go coding my future app'},
+        {id: '3', title : 'Create your newpapers in app lous', content:'I Need publish more news about my app '},
     ]
 } 
 
